@@ -21,8 +21,10 @@ https://www.datacamp.com/instructors/dtkaplan
 
 
 Social Media
+============
 
 Twitter
+-------
 
 Jeremy Howard
 @jeremyphoward
@@ -72,11 +74,11 @@ Samuel SinyangweVerified account
 @samswey ‏
 Black Activist. Data Scientist & Policy Analyst. Stanford Alum. Co-Founder, Campaign Zero | Mapping Police Violence | OurStates. IG: samswey
 
-OpenAIVerified account
+OpenAI
 @OpenAI ‏
 OpenAI is a non-profit AI research company, discovering and enacting the path to safe artificial general intelligence. We're hiring: http://openai.com/jobs 
 
-STATVerified account
+STAT
 @statnews ‏
 Reporting from the frontiers of health and medicine.
 
