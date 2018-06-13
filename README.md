@@ -1,8 +1,27 @@
 # onlinefavs
 
+Online Courses
+
+http://www.fast.ai/
+
+fast.ai is dedicated to making the power of deep learning accessible to all. Deep learning is dramatically improving medicine, education, agriculture, transport and many other fields, with the greatest potential impact in the developing world. For its full potential to be met, the technology needs to be much easier to use, more reliable, and more intuitive than it is today. 
+
+https://mlbook.explained.ai/
+
+This book is a primer on machine learning for programmers trying to get up to speed quickly. You'll learn how machine learning works and how to apply it in practice. We focus on just a few powerful models (algorithms) that are extremely effective on real problems, rather than presenting a broad survey of machine learning algorithms as many books do. Co-author Jeremy used these few models to become the #1 competitor for two consecutive years at Kaggle.com. This narrow approach leaves lots of room to cover the models, training, and testing in detail, with intuitive descriptions and full code implementations.
+
+https://blog.openai.com/language-unsupervised/
+
+https://www.datacamp.com/instructors/dtkaplan
+
+
 Social Media
 
 Twitter
+
+Jeremy Howard
+@jeremyphoward
+Deep learning researcher & educator. Founder: fast.ai; Faculty: USF & Singularity University; // Previously - CEO: Enlitic; President: Kaggle; CEO Fastmail
 
 Andrej Karpathy
 @karpathy
