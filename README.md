@@ -7,24 +7,39 @@ http://www.fast.ai/
 
 fast.ai is dedicated to making the power of deep learning accessible to all. Deep learning is dramatically improving medicine, education, agriculture, transport and many other fields, with the greatest potential impact in the developing world. For its full potential to be met, the technology needs to be much easier to use, more reliable, and more intuitive than it is today. 
 
+
 https://mlbook.explained.ai/
 
-This book is a primer on machine learning for programmers trying to get up to speed quickly. You'll learn how machine learning works and how to apply it in practice. We focus on just a few powerful models (algorithms) that are extremely effective on real problems, rather than presenting a broad survey of machine learning algorithms as many books do. Co-author Jeremy used these few models to become the #1 competitor for two consecutive years at Kaggle.com. This narrow approach leaves lots of room to cover the models, training, and testing in detail, with intuitive descriptions and full code implementations.
+This book is a primer on machine learning for programmers trying to get up to speed quickly. You'll learn how machine learning works and how to apply it in practice. We focus on just a few powerful models (algorithms) that are extremely effective on real problems, rather than presenting a broad survey of machine learning algorithms as many books do. Co-author Jeremy used these few models to become the #1 competitor for two consecutive years at Kaggle.com. This narrow approach leaves lots of room to cover the models, training, and testing in detail, with intuitive descriptions and full code implementations
+
 
 http://mlyearning.org
 
 This book covers the process of carrying out a deep learning project. Ng shares best practices learned the hard way from many successful and unsuccessful AI projects over the years. Invaluable. 
 
-https://blog.openai.com/language-unsupervised/
+https://www.deeplearning.ai/
+
+Andrew Ng created a new series of courses, updating his original ML Coursera course. It's a time commitment, but it gets you more into understanding the theory (not deep, but deeper that fast.ai). This will help you navigate the changes from library to library over time. 
+
+
+https://www.analyticsvidhya.com/
+
+ACCELERATE YOUR CAREER THROUGH THE POWER OF COMMUNITY
+Analytics Vidhya brings you the power of community that comprises of data practitioners, thought leaders and corporates leveraging data to generate value for their businesses. Learn from the resources developed by experts at AnalyticsVidhya, participate in hackathons, master your skills with latest data science problems and showcase your skills to the world.
+
+
 
 https://www.datacamp.com/instructors/dtkaplan
 
+Daniel Kaplan is a great teacher, and covers the topic of statistical modeling--USEFUL statistical model--with great skill. This modeling approach is a extraordinarily powerful way to answer business and clinical questions. His book, _Statistical Modeling, A Fresh Approach (2nd Edition)_ is a good introduction.  
 
 Social Media
 ============
 
 Twitter
 -------
+
+Jesse's eclectic list: https://twitter.com/jbspence/lists/data-science/members
 
 Jeremy Howard
 @jeremyphoward
