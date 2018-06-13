@@ -10,6 +10,10 @@ https://mlbook.explained.ai/
 
 This book is a primer on machine learning for programmers trying to get up to speed quickly. You'll learn how machine learning works and how to apply it in practice. We focus on just a few powerful models (algorithms) that are extremely effective on real problems, rather than presenting a broad survey of machine learning algorithms as many books do. Co-author Jeremy used these few models to become the #1 competitor for two consecutive years at Kaggle.com. This narrow approach leaves lots of room to cover the models, training, and testing in detail, with intuitive descriptions and full code implementations.
 
+http://mlyearning.org
+
+This book covers the process of carrying out a deep learning project. Ng shares best practices learned the hard way from many successful and unsuccessful AI projects over the years. Invaluable. 
+
 https://blog.openai.com/language-unsupervised/
 
 https://www.datacamp.com/instructors/dtkaplan
