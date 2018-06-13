@@ -1,6 +1,7 @@
 # onlinefavs
 
-Online Courses
+Online Courses and Texts
+========================
 
 http://www.fast.ai/
 
